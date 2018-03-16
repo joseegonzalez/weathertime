@@ -1,4 +1,7 @@
-package com.example.joseg.weathertime;
+package com.example.joseg.weathertime.model;
+
+import com.example.joseg.weathertime.model.Currently;
+import com.example.joseg.weathertime.model.Daily;
 
 /**
  * Created by joseg on 3/15/18.
