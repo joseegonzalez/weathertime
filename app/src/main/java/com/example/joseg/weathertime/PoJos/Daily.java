@@ -1,4 +1,6 @@
-package com.example.joseg.weathertime.model;
+package com.example.joseg.weathertime.PoJos;
+
+import com.example.joseg.weathertime.PoJos.Information;
 
 import java.util.List;
 
