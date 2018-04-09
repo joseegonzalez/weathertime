@@ -1,4 +1,4 @@
-package com.example.joseg.weathertime.PoJos;
+package com.example.joseg.weathertime.Internet.PoJos;
 
 /**
  * Created by joseg on 3/15/18.
